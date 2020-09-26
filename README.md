@@ -7,7 +7,7 @@ Repositori ini berisi pengenalan pemrograman dasar, baik secara teori atau prakt
 
 **License**
 
-[[https://creativecommons.org/licenses/by-nc/3.0/][Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)]]
+[https://creativecommons.org/licenses/by-nc/3.0/][Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)]]
 
 TL;DR
 
